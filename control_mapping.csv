@@ -1,0 +1,16 @@
+Control ID,Control Title,Status,Related Asset ID,Current State
+A.5.9,Inventory of information and other associated assets,Implemented,AST-008,Asset inventory exists with owners and sensitivity ratings
+A.5.15,Access control,Partial,AST-009,Owners assigned but no documented access rules for the manifest database
+A.5.24,Information security incident management planning,Missing,AST-003,No written incident response plan
+A.5.30,ICT readiness for business continuity,Missing,AST-003,No tested recovery plan for the fleet tracking server
+A.6.3,Information security awareness and training,Missing,AST-001,No security training for dispatch or warehouse staff
+A.7.4,Physical security monitoring,Implemented,AST-010,Loading dock camera system in place
+A.7.10,Storage media,Partial,AST-007,Backup drive exists but is not encrypted or locked away
+A.8.2,Privileged access rights,Partial,AST-008,Admin workstation in use but admin accounts may be shared
+A.8.5,Secure authentication,Missing,AST-001,No multi-factor authentication on dispatch terminals
+A.8.7,Protection against malware,Implemented,AST-008,Antivirus installed on workstations
+A.8.8,Management of technical vulnerabilities,Missing,AST-003,No patching schedule for servers
+A.8.13,Information backup,Partial,AST-007,Backup drive exists but restores are never tested
+A.8.15,Logging,Missing,AST-009,No activity logs on the cargo manifest database
+A.8.20,Networks security,Partial,AST-006,Single office router with no network segmentation
+A.8.24,Use of cryptography,Missing,AST-003,Fleet tracking data not encrypted at rest or in transit

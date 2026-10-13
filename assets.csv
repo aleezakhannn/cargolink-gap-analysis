@@ -1,0 +1,11 @@
+Asset ID,Name,Type,Owner,Business Value,Sensitivity
+AST-001,Dispatch Terminal 1,Workstation,Dispatch Manager,High,Medium
+AST-002,Dispatch Terminal 2,Workstation,Dispatch Manager,High,Medium
+AST-003,Fleet Tracking Server,Server,IT Admin,High,High
+AST-004,Warehouse Barcode Scanner,Peripheral,Warehouse Staff,Medium,Low
+AST-005,Handheld GPS Unit,Mobile Device,Driver,Medium,Low
+AST-006,Office Wi-Fi Router,Network Equipment,IT Admin,Medium,Medium
+AST-007,Backup Storage Drive,Storage Device,IT Admin,Medium,High
+AST-008,Admin Workstation,Workstation,IT Admin,High,Medium
+AST-009,Cargo Manifest Database,Server,IT Admin,High,High
+AST-010,Loading Dock Camera System,Surveillance Equipment,Warehouse Manager,Medium,Medium
