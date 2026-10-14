@@ -1,0 +1,13 @@
+Control ID,Control Title,Status,Related Asset ID,Current State,Asset ID,Name,Type,Owner,Business Value,Sensitivity,Priority
+A.5.15,Access control,Partial,AST-009,Owners assigned but no documented access rules for the manifest database,AST-009,Cargo Manifest Database,Server,IT Admin,High,High,Medium
+A.5.24,Information security incident management planning,Missing,AST-003,No written incident response plan,AST-003,Fleet Tracking Server,Server,IT Admin,High,High,High
+A.5.30,ICT readiness for business continuity,Missing,AST-003,No tested recovery plan for the fleet tracking server,AST-003,Fleet Tracking Server,Server,IT Admin,High,High,High
+A.6.3,Information security awareness and training,Missing,AST-001,No security training for dispatch or warehouse staff,AST-001,Dispatch Terminal 1,Workstation,Dispatch Manager,High,Medium,Medium
+A.7.10,Storage media,Partial,AST-007,Backup drive exists but is not encrypted or locked away,AST-007,Backup Storage Drive,Storage Device,IT Admin,Medium,High,Medium
+A.8.2,Privileged access rights,Partial,AST-008,Admin workstation in use but admin accounts may be shared,AST-008,Admin Workstation,Workstation,IT Admin,High,Medium,Low
+A.8.5,Secure authentication,Missing,AST-001,No multi-factor authentication on dispatch terminals,AST-001,Dispatch Terminal 1,Workstation,Dispatch Manager,High,Medium,Medium
+A.8.8,Management of technical vulnerabilities,Missing,AST-003,No patching schedule for servers,AST-003,Fleet Tracking Server,Server,IT Admin,High,High,High
+A.8.13,Information backup,Partial,AST-007,Backup drive exists but restores are never tested,AST-007,Backup Storage Drive,Storage Device,IT Admin,Medium,High,Medium
+A.8.15,Logging,Missing,AST-009,No activity logs on the cargo manifest database,AST-009,Cargo Manifest Database,Server,IT Admin,High,High,High
+A.8.20,Networks security,Partial,AST-006,Single office router with no network segmentation,AST-006,Office Wi-Fi Router,Network Equipment,IT Admin,Medium,Medium,Low
+A.8.24,Use of cryptography,Missing,AST-003,Fleet tracking data not encrypted at rest or in transit,AST-003,Fleet Tracking Server,Server,IT Admin,High,High,High
